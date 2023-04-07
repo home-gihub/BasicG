@@ -4,9 +4,9 @@ a basic pygane template
 ## features
 
 - player: a simple box you can move around the screen
- - - status: complete
+   - status: complete
 - dialog: a fuction you can call that puts a box with a message on the screen when the enter key is pressed it hides
- - - status: hiding is an issue
+   - status: hiding is an issue
  
  
  
